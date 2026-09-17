@@ -24,7 +24,3 @@ Premium personal portfolio built with Python, Flask, HTML, CSS and minimal JavaS
 - GitHub and email links
 
 The site intentionally does not claim professional experience or technical mastery that was not provided.
-
-
-### Media
-The portfolio now includes a Media section with one photo and one MP4 video in `static/images/`.
